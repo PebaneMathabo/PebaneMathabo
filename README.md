@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Palesa Mosehle
 - 👀 I’m interested in Data Science and Machine Learning Engineering
-- 🌱 I’m currently doing Master of Research in Data Science/ Natural Language Processing(Topic Analysis, Sentiment Analysis, Eotion Detection, Intent Detection), also working as Research Assistant in Data Analytics(Mostly NLP) at the University of the Free State South Africa.
+- 🌱 I’m currently doing Master of Research in Data Science/ Natural Language Processing(Covid-19 Multilingual Twitter Analysis:Topic Analysis, Sentiment Analysis, Eotion Detection, Intent Detection), also working as Research Assistant in Data Analytics(Mostly NLP) at the University of the Free State South Africa.
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning Projects
 - 📫 How to reach me: here on Github or on email: pebane.mathabo@gmail.com
 
